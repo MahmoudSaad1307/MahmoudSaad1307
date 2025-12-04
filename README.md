@@ -1,15 +1,17 @@
 # Hi 👋, I'm Mahmoud Saad
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;Engineering+Clean+Software;Building+Thoughtful+Solutions;Piano+Player+%26+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&repeat=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Engineering+Clean+Software+%E2%9C%A8;Building+Thoughtful+Solutions+%F0%9F%9A%80;Piano+Player+%F0%9F%8E%B9+%26+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Profile_Views-3.8K-0e75b6?style=flat&logo=eye&logoColor=white" alt="Profile Views: 3.8K" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudsaad1307&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mahmoudsaad1307?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mahmoudsaad1307?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
-[<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+<img align="right" alt="Coding and Music" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+
 ### 👨‍💻 About Me
 
 - 🚀 **Latest Build:** [Palm of Babylon](https://www.palmofbabylon.com/ar-IQ) - Iraq's leading advertising agency's digital presence  
