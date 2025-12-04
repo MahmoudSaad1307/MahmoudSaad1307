@@ -2,7 +2,6 @@
 
 ### Software Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahmoudSaad1307" alt="MahmoudSaad1307" /></a> </p>
 
 - 📫 How to reach me **mahmoud2004saad@gmail.com**
 
