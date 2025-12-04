@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/Profile_Views-3.8K-0e75b6?style=flat&logo=eye&logoColor=white" alt="Profile Views: 3.8K" /> 
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
+[<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ### 👨‍💻 About Me
 
 - 🚀 **Latest Build:** [Palm of Babylon](https://www.palmofbabylon.com/ar-IQ) - Iraq's leading advertising agency's digital presence  
