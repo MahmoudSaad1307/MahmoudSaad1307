@@ -2,8 +2,15 @@
 
 ### Software Developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MahmoudSaad1307&label=Profile views&color=0e75b6&style=flat" alt="MahmoudSaad1307" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahmoudSaad1307" alt="MahmoudSaad1307" /></a> </p>
+
+- 🌱 I'm currently learning **Advanced backend patterns (e.g. microservices, JWT/auth best practices, CI/CD pipelines)**
 
 - 📫 How to reach me **mahmoud2004saad@gmail.com**
+
+- ⚡ Fun fact **I code by day, play piano by night. 🎹**
 
 - 👨‍💻 All of my projects are available at **[https://mahmoudsaad.vercel.app/](https://mahmoudsaad.vercel.app/)**
 
