@@ -1,34 +1,35 @@
-name: GitHub Contributions Snake
+name: Generate GitHub Contributions Snake
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # runs daily at midnight
+  workflow_dispatch:     # allows manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake from GitHub Contributions
+      # Generate the contributions snake
+      - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Optional: customize the color
-          color: "00ff00"
-          # Optional: output file
-          output: "./snake.svg"
+          output: dist/github-contribution-grid-snake.svg
+          color: "0,255,0" # snake color
+          speed: 3         # snake speed
 
-      - name: Commit and Push Snake
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add snake.svg
-          git commit -m "Update GitHub contributions snake" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Commit and push the generated SVG
+      - name: Commit & Push Snake SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub Contributions Snake"
+          file_pattern: dist/github-contribution-grid-snake.svg
+          branch: main
+          push_options: "--force"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
