@@ -1,24 +1,35 @@
-name: Generate Snake
+name: Snake Game Contributions
 
+# Trigger the workflow on push or manual run
 on:
-  schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: mahmoudsaad1307
-          outputs: |
-            dist/snake.svg
-      - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install numpy pillow
+
+      - name: Run GitHub Contributions Snake
+        uses: p1ass/github-contributions-snake-action@v2
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: change color of the snake, defaults to green
+          snake-color: "0,255,0"
+          # Optional: set speed (1-10)
+          speed: 3
