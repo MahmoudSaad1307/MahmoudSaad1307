@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=MahmoudSaad1307&label=Profile+views&color=0e75b6&style=flat" alt="MahmoudSaad1307" /> 
 </p>
 
-<p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=MahmoudSaad1307">
-    <img src="https://github-profile-trophy.vercel.app/?username=MahmoudSaad1307" alt="MahmoudSaad1307" />
-  </a>
-</p>
 
 - 👨‍💻 All my projects: [https://mahmoudsaad.vercel.app/](https://mahmoudsaad.vercel.app/)  
 - 🌱 I'm currently learning **Advanced backend patterns, CI/CD, and Flutter improvements**  
