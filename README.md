@@ -2,9 +2,7 @@
 
 ### Full-Stack Developer | Engineering Clean, Thoughtful Software
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=MahmoudSaad1307&label=Profile+views&color=0e75b6&style=flat" alt="MahmoudSaad1307" /> 
-</p>
+
 
 
 - 👨‍💻 All my projects: [https://mahmoudsaad.vercel.app/](https://mahmoudsaad.vercel.app/)  
@@ -23,6 +21,9 @@
   </a>
   <a href="https://discord.gg/saad.1307" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
+  </a>
+  <a href="https://wa.me/201064189695" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40"/>
   </a>
 </p>
 
@@ -76,4 +77,7 @@
 <h2 align="left">Streak Stats</h2>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSaad1307&hide_border=true" alt="Streak Stats" />
+</p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=MahmoudSaad1307&label=Profile+views&color=0e75b6&style=flat" alt="MahmoudSaad1307" /> 
 </p>
