@@ -1,5 +1,8 @@
 name: Generate GitHub Contributions Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *"  # runs daily at midnight
@@ -10,11 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate the contributions snake
+      - name: Create dist folder
+        run: mkdir -p dist
+
       - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
         with:
@@ -23,7 +27,6 @@ jobs:
           color: "0,255,0" # snake color
           speed: 3         # snake speed
 
-      # Commit and push the generated SVG
       - name: Commit & Push Snake SVG
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
