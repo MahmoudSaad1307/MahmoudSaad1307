@@ -4,10 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;Engineering+Clean+Software;Building+Thoughtful+Solutions;Piano+Player+%26+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoudsaad1307&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahmoudsaad1307?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/mahmoudsaad1307?label=Stars&style=social" alt="GitHub Stars" />
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Profile_Views-3.8K-0e75b6?style=flat&logo=eye&logoColor=white" alt="Profile Views: 3.8K" /> 
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
