@@ -8,7 +8,7 @@
 - 🚀 **Latest Build:** [Palm of Babylon](https://www.palmofbabylon.com/ar-IQ) - Iraq's leading advertising agency's digital presence  
 - 🏆 **Most Proud Of:** [AI Movies Recommender](https://mahmoudsaad1307.github.io/DEPI-MoviesApp/) - 🎬 Top 10 finalist in DEPI Round 2, powered by intelligent recommendations  
 - 💼 **All My Work:** [mahmoudsaad.vercel.app](https://mahmoudsaad.vercel.app/)  
-- 🌱 **Currently Mastering:** Advanced backend patterns, CI/CD, and Flutter improvements  
+- 🌱 **Currently Mastering:** Advanced backend patterns, event-driven architecture, CI/CD, caching strategies, and Flutter improvements
 - 🎹 **After Hours:** I code by day, play piano by night  
 - 📬 **Let's Connect:** mahmoud2004saad@gmail.com  
 
