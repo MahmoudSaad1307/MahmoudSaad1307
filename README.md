@@ -12,12 +12,10 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on **my portfolio & full-stack apps**  
-- 🌱 I'm currently learning **Advanced backend patterns, CI/CD, and Flutter improvements**  
-- 📫 How to reach me **mahmoud2004saad@gmail.com**  
-- ⚡ Fun fact **I code by day, play piano by night. 🎹**  
 - 👨‍💻 All my projects: [https://mahmoudsaad.vercel.app/](https://mahmoudsaad.vercel.app/)  
-- 📄 Resume: [https://drive.google.com/file/d/1gmTz6rVBhTQZV_4KU0DEd2Kz6jzd_j6M/view?usp=sharing](https://drive.google.com/file/d/1gmTz6rVBhTQZV_4KU0DEd2Kz6jzd_j6M/view?usp=sharing)  
+- 🌱 I'm currently learning **Advanced backend patterns, CI/CD, and Flutter improvements**  
+- ⚡ Fun fact **I code by day, play piano by night. 🎹**  
+- 📫 How to reach me **mahmoud2004saad@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
