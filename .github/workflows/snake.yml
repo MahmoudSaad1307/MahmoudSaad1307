@@ -1,41 +1,29 @@
-name: Generate GitHub Contributions Snake
-
-permissions:
-  contents: write
+name: Generate Snake
 
 on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows manual trigger
   push:
     branches:
-      - main
-  schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight
-  workflow_dispatch:     # allows manual run
+    - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Create dist folder
-        run: mkdir -p dist
-
-      - name: Generate GitHub Contributions Snake
-        uses: Platane/snk@v3
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          output: dist/github-contribution-grid-snake.svg
-          color: "0,255,0"
-          speed: 3
-
-      - name: Commit & Push Snake SVG
-        uses: stefanzweifel/git-auto-commit-action@v5
+          outputs: dist/snake.svg?palette=github-dark
+          
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          commit_message: "Update GitHub Contributions Snake"
-          file_pattern: dist/github-contribution-grid-snake.svg
-          branch: main
-          push_options: "--force"
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
