@@ -71,6 +71,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudsaad1307&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+![snake gif](https://raw.githubusercontent.com/mahmoudsaad1307/mahmoudsaad1307/output/snake.svg)
 
 
 
