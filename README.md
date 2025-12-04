@@ -2,9 +2,6 @@
 
 ### Full-Stack Developer | Engineering Clean, Thoughtful Software
 
-
-
-
 - 👨‍💻 All my projects: [https://mahmoudsaad.vercel.app/](https://mahmoudsaad.vercel.app/)  
 - 🌱 I'm currently learning **Advanced backend patterns, CI/CD, and Flutter improvements**  
 - ⚡ Fun fact **I code by day, play piano by night. 🎹**  
@@ -62,7 +59,6 @@
 
 </p>
 
-
 ### 📈 GitHub Analytics
 
 <p align="center">
@@ -71,14 +67,18 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudsaad1307&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![Snake animation](https://raw.githubusercontent.com/mahmoudsaad1307/mahmoudsaad1307/output/snake.svg)
-
-
 
 <h2 align="left">Streak Stats</h2>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSaad1307&hide_border=true" alt="Streak Stats" />
 </p>
+
+### 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MahmoudSaad1307/MahmoudSaad1307/output/snake.svg" alt="Snake animation" />
+</div>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=MahmoudSaad1307&label=Profile+views&color=0e75b6&style=flat" alt="MahmoudSaad1307" /> 
 </p>
