@@ -85,3 +85,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=MahmoudSaad1307&label=Profile+views&color=0e75b6&style=flat" alt="MahmoudSaad1307" /> 
 </p>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Profile_Views-3.8K-0e75b6?style=flat&logo=eye&logoColor=white" alt="Profile Views: 3.8K" /> 
+</p>
