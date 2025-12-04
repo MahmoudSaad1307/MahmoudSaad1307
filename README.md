@@ -116,10 +116,7 @@
 </a>
 </p>
 
-<h2 align="left">Streak Stats</h2>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSaad1307&hide_border=true" alt="Streak Stats" />
-</p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MahmoudSaad1307/MahmoudSaad1307/output/snake.svg" alt="Snake animation" />
