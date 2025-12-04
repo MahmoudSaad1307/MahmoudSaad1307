@@ -36,9 +36,63 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,cs,css,dart,dotnet,express,figma,firebase,flutter,git,html,java,js,jest,mongodb,mysql,nextjs,nodejs,postgres,postman,py,react,redis,redux,sass,tailwind,ts" alt="Tools" width="40" height="40"/>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> 
+  </a> 
 </p>
+
 
 <h2 align="left">GitHub Stats</h2>
 <p>
