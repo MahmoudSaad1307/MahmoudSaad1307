@@ -1,6 +1,9 @@
 # Hi 👋, I'm Mahmoud Saad
 
 ### Full-Stack Developer | Engineering Clean, Thoughtful Software
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Profile_Views-3.8K-0e75b6?style=flat&logo=eye&logoColor=white" alt="Profile Views: 3.8K" /> 
+</p>
 
 - 🚀 **Latest Build:** [Palm of Babylon](https://www.palmofbabylon.com/ar-IQ) - Iraq's leading advertising agency's digital presence  
 - 🏆 **Most Proud Of:** [AI Movies Recommender](https://mahmoudsaad1307.github.io/DEPI-MoviesApp/) - 🎬 Top 10 finalist in DEPI Round 2, powered by intelligent recommendations  
@@ -82,9 +85,4 @@
   <img src="https://raw.githubusercontent.com/MahmoudSaad1307/MahmoudSaad1307/output/snake.svg" alt="Snake animation" />
 </div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=MahmoudSaad1307&label=Profile+views&color=0e75b6&style=flat" alt="MahmoudSaad1307" /> 
-</p>
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Profile_Views-3.8K-0e75b6?style=flat&logo=eye&logoColor=white" alt="Profile Views: 3.8K" /> 
-</p>
+
