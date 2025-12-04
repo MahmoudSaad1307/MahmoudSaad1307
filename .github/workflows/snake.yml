@@ -4,6 +4,9 @@ permissions:
   contents: write
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *"  # runs daily at midnight
   workflow_dispatch:     # allows manual run
@@ -24,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           output: dist/github-contribution-grid-snake.svg
-          color: "0,255,0" # snake color
-          speed: 3         # snake speed
+          color: "0,255,0"
+          speed: 3
 
       - name: Commit & Push Snake SVG
         uses: stefanzweifel/git-auto-commit-action@v5
