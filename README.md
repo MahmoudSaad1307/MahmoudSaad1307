@@ -2,10 +2,13 @@
 
 ### Full-Stack Developer | Engineering Clean, Thoughtful Software
 
-- 👨‍💻 All my projects: [https://mahmoudsaad.vercel.app/](https://mahmoudsaad.vercel.app/)  
-- 🌱 I'm currently learning **Advanced backend patterns, CI/CD, and Flutter improvements**  
-- ⚡ Fun fact **I code by day, play piano by night. 🎹**  
-- 📫 How to reach me **mahmoud2004saad@gmail.com**  
+- 🚀 **Latest Build:** [Palm of Babylon](https://www.palmofbabylon.com/ar-IQ) - Iraq's leading advertising agency's digital presence  
+- 🏆 **Most Proud Of:** [AI Movies Recommender](https://mahmoudsaad1307.github.io/DEPI-MoviesApp/) - 🎬 Top 10 finalist in DEPI Round 2, powered by intelligent recommendations  
+- 💼 **All My Work:** [mahmoudsaad.vercel.app](https://mahmoudsaad.vercel.app/)  
+- 🌱 **Currently Mastering:** Advanced backend patterns, CI/CD, and Flutter improvements  
+- 🎹 **After Hours:** I code by day, play piano by night  
+- 📬 **Let's Connect:** mahmoud2004saad@gmail.com  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
