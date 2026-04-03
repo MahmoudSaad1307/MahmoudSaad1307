@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Engineering Clean, Thoughtful Software
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Profile_Views-3.8K-0e75b6?style=flat&logo=eye&logoColor=white" alt="Profile Views: 3.8K" /> 
+  <img src="https://komarev.com/ghpvc/?username=mahmoudsaad1307&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 - 🚀 **Latest Build:** [Palm of Babylon](https://www.palmofbabylon.com/ar-IQ) - Iraq's leading advertising agency's digital presence  
