@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mahmoud Saad
 
 ### Full-Stack Developer | Engineering Clean, Thoughtful Software
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mahmoudsaad1307&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+<p align="left">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mahmoudsaad1307&count_bg=%230E75B6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
 </p>
 
 - 🚀 **Latest Build:** [Palm of Babylon](https://www.palmofbabylon.com/ar-IQ) - Iraq's leading advertising agency's digital presence  
