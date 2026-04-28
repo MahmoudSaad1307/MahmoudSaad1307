@@ -1,5 +1,4 @@
 # Hi 👋, I'm Mahmoud Saad
-
 ### Full-Stack Developer | Engineering Clean, Thoughtful Software
 <p align="left"><img src="https://img.shields.io/badge/Profile_Views-3.8K-0e75b6?style=flat&logo=eye&logoColor=white" alt="Profile Views: 3.8K" /></p>
 
@@ -8,21 +7,18 @@
 - 💼 **All My Work:** [mahmoudsaad.vercel.app](https://mahmoudsaad.vercel.app/)  
 - 🌱 **Currently Mastering:** Advanced backend patterns, event-driven architecture, CI/CD, caching strategies, and Flutter improvements  
 - 🎹 **After Hours:** I code by day, play piano by night  
-- 📬 **Let's Connect:** mahmoud2004saad@gmail.com  
+- 📬 **Let's Connect:** [mahmoud2004saad@gmail.com](mailto:mahmoud2004saad@gmail.com)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-saad1307/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-<a href="https://www.youtube.com/@mahmoud.1307" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
-<a href="https://discord.gg/saad.1307" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/></a>
-<a href="https://wa.me/201064189695" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/mahmoud-saad1307/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a> <a href="https://www.youtube.com/@mahmoud.1307" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a> <a href="https://discord.gg/saad.1307" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/></a> <a href="https://wa.me/201064189695" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Frontend Development</h4>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,angular,react,js,ts,sass,tailwind&perline=7" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,sass,tailwind&perline=7" alt="Frontend Skills" />
 </p>
 
 <h4 align="left">Backend & Databases</h4>
