@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-saad1307/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-<a href="https://www.youtube.com/@mahmoud.1307" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube"/></a>
-<a href="https://discord.gg/saad.1307" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
-<a href="https://wa.me/201064189695" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/mahmoud-saad1307/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/@mahmoud.1307"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://discord.gg/saad.1307"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://wa.me/201064189695"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
