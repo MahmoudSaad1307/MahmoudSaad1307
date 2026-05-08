@@ -3,7 +3,7 @@
 <p align="left"><img src="https://img.shields.io/badge/Profile_Views-3.8K-0e75b6?style=flat&logo=eye&logoColor=white" alt="Profile Views: 3.8K" /></p>
 
 - 🚀 **Latest Build:** [Palm of Babylon](https://www.palmofbabylon.com/ar-IQ) - Iraq's leading advertising agency's digital presence  
-- 🏆 **Most Proud Of:** [AI Movies Recommender](https://mahmoudsaad1307.github.io/DEPI-MoviesApp/) - 🎬 Top 10 finalist in DEPI Round 2, powered by intelligent recommendations  
+- 🏆 **Most Proud Of:** [AI Movies Recommender](http://cinemirage.vercel.app/) - 🎬 Top 10 finalist in DEPI Round 2, powered by intelligent recommendations  
 - 💼 **All My Work:** [mahmoudsaad.vercel.app](https://mahmoudsaad.vercel.app/)  
 - 🌱 **Currently Mastering:** Advanced backend patterns, event-driven architecture, CI/CD, caching strategies, and Flutter improvements  
 - 🎹 **After Hours:** I code by day, play piano by night  
