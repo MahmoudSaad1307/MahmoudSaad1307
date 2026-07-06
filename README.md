@@ -2,9 +2,9 @@
 ### Full-Stack Developer | Engineering Clean, Thoughtful Software
 <p align="left"><img src="https://img.shields.io/badge/Profile_Views-3.8K-0e75b6?style=flat&logo=eye&logoColor=white" alt="Profile Views: 3.8K" /></p>
 
-- 🚀 **Latest Build:** [Palm of Babylon](palmofbabylon.com/ar-IQ) - Iraq's leading advertising agency's digital presence  
-- 🏆 **Most Proud Of:** [AI Movies Recommender](cinemirage.vercel.app/) - 🎬 Top 10 finalist in DEPI Round 2, powered by intelligent recommendations  
-- 💼 **All My Work:** [mahmoudsaad.pro](mahmoudsaad.pro)  
+- 🚀 **Latest Build:** [Palm of Babylon](https://palmofbabylon.com/ar-IQ) – Iraq's leading advertising agency's digital presence
+- 🏆 **Most Proud Of:** [AI Movies Recommender](https://cinemirage.vercel.app/) – 🎬 Top 10 finalist in DEPI Round 2, powered by intelligent recommendations
+- 💼 **All My Work:** [mahmoudsaad.pro](https://mahmoudsaad.pro)
 - 🌱 **Currently Mastering:** Advanced backend patterns, event-driven architecture, CI/CD, caching strategies, and Flutter improvements  
 - 🎹 **After Hours:** I code by day, play piano by night  
 - 📬 **Let's Connect:** [mahmoud2004saad@gmail.com](mailto:mahmoud2004saad@gmail.com)  
